@@ -1,8 +1,6 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
-### Challenge
-
 #### Outcomes Based on Goal
 
 This analysis looks at the relationship between a project's goal and its ultimate outcome in the category of theatrical plays.
